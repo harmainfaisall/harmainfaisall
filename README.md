@@ -114,24 +114,19 @@ Exploring music players, theme switchers, responsive landing pages, and other in
 
 </div>
 
-## ⌁ GitHub at a Glance
+## ✦ My Development Journey
 
 <div align="center">
 
-<a href="https://github.com/harmainfaisall">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harmainfaisall&show_icons=true&hide_border=true&bg_color=171326&title_color=B9A3FF&icon_color=36C9B0&text_color=EAE5F5&include_all_commits=true" alt="GitHub statistics"/>
+**BUILD · LEARN · EXPERIMENT · IMPROVE**
+
+I believe every project is an opportunity to learn something new, solve a problem, and become a better developer.
+
+<a href="https://github.com/harmainfaisall?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20MY%20PROJECTS-7357AD?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
 </a>
-
-<a href="https://github.com/harmainfaisall">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmainfaisall&layout=compact&hide_border=true&bg_color=171326&title_color=B9A3FF&text_color=EAE5F5" alt="Most used programming languages"/>
-</a>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=harmainfaisall&bg_color=171326&color=B9A3FF&line=36C9B0&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity"/>
 
 </div>
-
 ## ☎ Let's Connect
 
 <div align="center">
