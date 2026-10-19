@@ -1,105 +1,101 @@
-<!-- ═══════════════ HERO SECTION ═══════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:17152D,50:563D8F,100:16B8A6&text=HARMAIN%20FAISAL&fontColor=FFFFFF&fontSize=48&fontAlignY=45&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=15&descAlignY=65&animation=fadeIn&stroke=9B8AFB&strokeWidth=1" width="100%" alt="Harmain Faisal — Full Stack Web Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=HARMAIN%20FAISAL&fontSize=55&fontColor=F7F3FF&fontAlignY=43&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=17&descAlignY=63&color=0:171326,45:4C3378,75:7357AD,100:167F80&animation=fadeIn" alt="Harmain Faisal — Full Stack Web Developer"/>
 
 <br/>
 
 <a href="https://github.com/harmainfaisall">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=9B8AFB&center=true&vCenter=true&width=650&lines=Turning+ideas+into+digital+experiences.;Building+with+React.js+%26+Tailwind+CSS.;Exploring+the+world+of+backend+development.;Learn.+Build.+Refine.+Repeat." alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=B9A3FF&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+interactive+experiences.;Frontend+%E2%80%A2+Backend+%E2%80%A2+Continuous+Growth;Building.+Breaking.+Learning.+Improving." alt="Animated developer tagline"/>
 </a>
 
-<br/>
+<br/><br/>
 
+<a href="https://github.com/harmainfaisall?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-My%20Projects-B9A3FF?style=for-the-badge&logo=github&logoColor=171326" alt="Explore projects"/>
+</a>
 <a href="https://www.linkedin.com/in/harmain-faisall/">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-9B8AFB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT-Let's%20Talk-167F80?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-<a href="mailto:harmain.faisall19@gmail.com">
-<img src="https://img.shields.io/badge/SAY%20HELLO-Email-24213A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Harmain"/>
-</a>
+
+<br/><br/>
+
+*Curious mind. Creative thinking. Code that brings ideas to life.*
 
 </div>
 
 ---
 
-### `01` — A little about me
+## ✳ About Me
 
-I'm **Harmain Faisal**, a Full Stack Web Developer who enjoys bringing ideas to life through thoughtful design and functional code.
+Hey, I'm **Harmain** — a Full Stack Web Developer who loves transforming ideas into thoughtful, interactive web experiences.
 
-I build responsive interfaces, explore new technologies, and turn practice into real projects. My current focus is growing beyond frontend development and strengthening my backend skills.
+I enjoy the process of taking a concept, shaping its interface, and bringing it to life with code. I'm strengthening my backend development skills while continuing to build, experiment, and grow through practical projects.
 
-```js
-const harmain = {
-  role: "Full Stack Web Developer",
-  frontend: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js", "REST APIs"],
-  database: ["MongoDB"],
-  tools: ["Git", "GitHub", "VS Code", "Figma"],
-  mindset: "Build → Learn → Improve"
-};
-```
+- ◈ **Frontend:** Building responsive interfaces with React.js and Tailwind CSS.
+- ◈ **Backend:** Learning Node.js, Express.js, and REST API development.
+- ◈ **Problem-solving:** Exploring new approaches and improving through hands-on practice.
+- ◈ **Current mindset:** Learn something. Build something. Make it better.
 
-### `02` — My development toolkit
+## ⌘ My Tech Universe
 
 <div align="center">
 
-**FRONTEND**
+**01 / FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, React, Tailwind CSS and Bootstrap"/>
 
-**BACKEND & DATABASE**
+**02 / BACKEND & DATA**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express.js and MongoDB"/>
 
-**TOOLS & WORKFLOW**
+**03 / TOOLS & DESIGN**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git, GitHub, VS Code and Figma"/>
 
 </div>
 
-### `03` — Selected projects
+## ✦ Selected Work
 
-A few projects that represent my journey from building interfaces to creating interactive web experiences.
+*Different ideas, different challenges — every project is a chance to learn by building.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 / FocusFlow**
+### ◇ FocusFlow
 
-A Pomodoro productivity application featuring customizable intervals, counters, ambient sounds, and audio interactions.
+A productivity timer designed around focus sessions, custom intervals, counters, and ambient audio.
 
-`JavaScript` `CSS` `Audio API`
+**Focus:** Interactive UI · Timer logic · Audio API
 
 </td>
 <td width="50%" valign="top">
 
-**02 / BrainBattle**
+### ◇ BrainBattle
 
-An interactive project built during my CodeAlpha development tasks, focused on logic and user interaction.
+An interactive project developed as part of my CodeAlpha project journey.
 
-`JavaScript` `HTML` `CSS`
+**Focus:** JavaScript · Logic · User interaction
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 / Delicious bites**
+### ◇ Harmain's Portfolio
 
-A food-themed web experience showcasing visual presentation and responsive frontend + backend development.
+My personal space to showcase development work, skills, and projects through a custom-designed web experience.
 
-`React / Frontend*` `CSS`
+**Focus:** Responsive design · UI development
 
 </td>
 <td width="50%" valign="top">
 
-**04 / More experiments**
+### ◇ Creative Experiments
 
-From interactive music players and theme switchers to responsive landing pages, I keep experimenting with new ideas.
+From music players and theme switchers to landing pages and interactive interfaces, I use side projects to explore new ideas.
 
-`Frontend` `UI Development`
+**Focus:** Frontend experiments · Creative coding
 
 </td>
 </tr>
@@ -108,47 +104,51 @@ From interactive music players and theme switchers to responsive landing pages, 
 <div align="center">
 
 <a href="https://github.com/harmainfaisall?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-View%20Projects-563D8F?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+<img src="https://img.shields.io/badge/DISCOVER-MORE%20PROJECTS-29213F?style=for-the-badge&logo=github&logoColor=B9A3FF" alt="Discover more projects"/>
 </a>
 
 </div>
 
-### `04` — GitHub at a glance
+## ⌁ My GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/harmainfaisall">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harmainfaisall&show_icons=true&hide_border=true&bg_color=11101C&title_color=B6A5FF&icon_color=16B8A6&text_color=E5E2F0&ring_color=9B8AFB&include_all_commits=true" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harmainfaisall&show_icons=true&hide_border=true&bg_color=171326&title_color=B9A3FF&icon_color=36C9B0&text_color=EAE5F5&include_all_commits=true" alt="GitHub contribution statistics"/>
 </a>
 
 <a href="https://github.com/harmainfaisall">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmainfaisall&layout=compact&hide_border=true&bg_color=11101C&title_color=B6A5FF&text_color=E5E2F0" alt="Most used programming languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmainfaisall&layout=compact&hide_border=true&bg_color=171326&title_color=B9A3FF&text_color=EAE5F5" alt="Most used programming languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=harmainfaisall&hide_border=true&background=11101C&ring=9B8AFB&fire=16B8A6&currStreakLabel=B6A5FF&sideLabels=E5E2F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA5BD" width="75%" alt="GitHub contribution streak"/>
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=harmainfaisall&bg_color=171326&color=B9A3FF&line=36C9B0&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
 </div>
 
-### `05` — Beyond the code
-
-- **Curiosity:** Exploring how applications work beyond the user interface.
-- **Creativity:** Turning design ideas into responsive web experiences.
-- **Growth:** Learning through hands-on projects, feedback, and experimentation.
-
----
+## ☏ Let's Connect
 
 <div align="center">
 
-### Building something better, one commit at a time.
+Have an opportunity, an interesting project, or just want to connect? I'd love to hear from you.
 
-*Thanks for stopping by — feel free to explore my repositories.*
+<a href="https://www.linkedin.com/in/harmain-faisall/">
+<img src="https://img.shields.io/badge/LinkedIn-Harmain%20Faisal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<a href="https://github.com/harmainfaisall">GitHub</a> ·
-<a href="https://www.linkedin.com/in/harmain-faisall/">LinkedIn</a>
+<a href="mailto:harmain.faisall19@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:563D8F,100:16B8A6&height=100&section=footer" width="100%" alt="Decorative footer"/>
+<a href="https://github.com/harmainfaisall">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-29213F?style=for-the-badge&logo=github&logoColor=B9A3FF" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+*“The goal isn't just to write code. It's to keep growing into the developer who can turn an idea into reality.”*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:167F80,55:4C3378,100:171326&height=110&section=footer" alt="Decorative footer"/>
 
 </div>
-
