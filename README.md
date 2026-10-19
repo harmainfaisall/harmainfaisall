@@ -1,101 +1,106 @@
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=HARMAIN%20FAISAL&fontSize=55&fontColor=F7F3FF&fontAlignY=43&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=17&descAlignY=63&color=0:171326,45:4C3378,75:7357AD,100:167F80&animation=fadeIn" alt="Harmain Faisal — Full Stack Web Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=HARMAIN%20FAISAL&fontSize=52&fontColor=F7F3FF&fontAlignY=42&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20ASPIRING%20DEVOPS%20ENGINEER&descSize=13&descAlignY=63&color=0:171326,45:4C3378,75:7357AD,100:167F80&animation=fadeIn" alt="Harmain Faisal — Full Stack Web Developer and Aspiring DevOps Engineer"/>
 
 <br/>
 
-<a href="https://github.com/harmainfaisall">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=B9A3FF&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+interactive+experiences.;Frontend+%E2%80%A2+Backend+%E2%80%A2+Continuous+Growth;Building.+Breaking.+Learning.+Improving." alt="Animated developer tagline"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=B9A3FF&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences.;Exploring+backend+development+%26+DevOps.;Code.+Create.+Deploy.+Improve." alt="Animated introduction"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/harmainfaisall?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-My%20Projects-B9A3FF?style=for-the-badge&logo=github&logoColor=171326" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-B9A3FF?style=for-the-badge&logo=github&logoColor=171326" alt="Explore projects"/>
 </a>
 <a href="https://www.linkedin.com/in/harmain-faisall/">
-<img src="https://img.shields.io/badge/CONNECT-Let's%20Talk-167F80?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT-ON%20LINKEDIN-167F80?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-*Curious mind. Creative thinking. Code that brings ideas to life.*
+*Creative thinking. Thoughtful development. Continuous growth.*
 
 </div>
 
 ---
 
-## ✳ About Me
+## ✦ About Me
 
-Hey, I'm **Harmain** — a Full Stack Web Developer who loves transforming ideas into thoughtful, interactive web experiences.
+Hey, I'm **Harmain Faisal** — a Full Stack Web Developer and Aspiring DevOps Engineer who enjoys turning ideas into functional, user-friendly digital experiences.
 
-I enjoy the process of taking a concept, shaping its interface, and bringing it to life with code. I'm strengthening my backend development skills while continuing to build, experiment, and grow through practical projects.
+I love creating responsive web interfaces, exploring backend technologies, and discovering how applications are built, deployed, and maintained.
 
-- ◈ **Frontend:** Building responsive interfaces with React.js and Tailwind CSS.
-- ◈ **Backend:** Learning Node.js, Express.js, and REST API development.
-- ◈ **Problem-solving:** Exploring new approaches and improving through hands-on practice.
-- ◈ **Current mindset:** Learn something. Build something. Make it better.
+- 💻 Building modern web experiences with React.js and Tailwind CSS
+- ⚙️ Expanding my backend development skills with Node.js and Express.js
+- ☁️ Exploring DevOps concepts, deployment workflows, and automation
+- 🛠️ Learning through hands-on projects and practical experimentation
+- 🎯 Focused on writing cleaner code and continuously improving my skills
 
-## ⌘ My Tech Universe
+## ⌘ Tech Stack & Tools
 
 <div align="center">
 
-**01 / FRONTEND**
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, React, Tailwind CSS and Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="Frontend development technologies"/>
 
-**02 / BACKEND & DATA**
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express.js and MongoDB"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend development technologies"/>
 
-**03 / TOOLS & DESIGN**
+### Tools & Design
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git, GitHub, VS Code and Figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Development tools"/>
+
+### Exploring DevOps
+
+<img src="https://skillicons.dev/icons?i=linux,docker,githubactions&theme=dark" alt="DevOps technologies to explore"/>
 
 </div>
 
-## ✦ Selected Work
+## ✧ Featured Projects
 
-*Different ideas, different challenges — every project is a chance to learn by building.*
+*A selection of projects where I explore design, functionality, and interactive web experiences.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◇ FocusFlow
+### ☕ Coffiora
 
-A productivity timer designed around focus sessions, custom intervals, counters, and ambient audio.
+A coffee-themed web experience designed around an inviting visual identity and an engaging browsing experience.
 
-**Focus:** Interactive UI · Timer logic · Audio API
+**Focus:** Visual design · UI development · Responsive layouts
 
 </td>
 <td width="50%" valign="top">
 
-### ◇ BrainBattle
+### 🍽️ Delicious Bites
 
-An interactive project developed as part of my CodeAlpha project journey.
+A food website concept featuring a premium dark aesthetic, food presentation, and interactive shopping and account interfaces.
 
-**Focus:** JavaScript · Logic · User interaction
+**Focus:** UI design · Add-to-cart interface · Login/signup UI
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◇ Harmain's Portfolio
+### ⏱️ FocusFlow
 
-My personal space to showcase development work, skills, and projects through a custom-designed web experience.
+A productivity timer featuring customizable focus intervals, counters, and ambient sound functionality.
 
-**Focus:** Responsive design · UI development
+**Focus:** Interactive features · Timer logic · Audio API
 
 </td>
 <td width="50%" valign="top">
 
-### ◇ Creative Experiments
+### 🎨 More Experiments
 
-From music players and theme switchers to landing pages and interactive interfaces, I use side projects to explore new ideas.
+Exploring music players, theme switchers, responsive landing pages, and other interactive frontend ideas.
 
-**Focus:** Frontend experiments · Creative coding
+**Focus:** JavaScript · Creative coding · UI interactions
 
 </td>
 </tr>
@@ -104,17 +109,17 @@ From music players and theme switchers to landing pages and interactive interfac
 <div align="center">
 
 <a href="https://github.com/harmainfaisall?tab=repositories">
-<img src="https://img.shields.io/badge/DISCOVER-MORE%20PROJECTS-29213F?style=for-the-badge&logo=github&logoColor=B9A3FF" alt="Discover more projects"/>
+<img src="https://img.shields.io/badge/DISCOVER%20MORE-ALL%20REPOSITORIES-29213F?style=for-the-badge&logo=github&logoColor=B9A3FF" alt="View all repositories"/>
 </a>
 
 </div>
 
-## ⌁ My GitHub Activity
+## ⌁ GitHub at a Glance
 
 <div align="center">
 
 <a href="https://github.com/harmainfaisall">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harmainfaisall&show_icons=true&hide_border=true&bg_color=171326&title_color=B9A3FF&icon_color=36C9B0&text_color=EAE5F5&include_all_commits=true" alt="GitHub contribution statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harmainfaisall&show_icons=true&hide_border=true&bg_color=171326&title_color=B9A3FF&icon_color=36C9B0&text_color=EAE5F5&include_all_commits=true" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/harmainfaisall">
@@ -123,31 +128,29 @@ From music players and theme switchers to landing pages and interactive interfac
 
 <br/><br/>
 
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=harmainfaisall&bg_color=171326&color=B9A3FF&line=36C9B0&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=harmainfaisall&bg_color=171326&color=B9A3FF&line=36C9B0&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity"/>
 
 </div>
 
-## ☏ Let's Connect
+## ☎ Let's Connect
 
 <div align="center">
 
-Have an opportunity, an interesting project, or just want to connect? I'd love to hear from you.
+I'm always open to connecting with developers, learning from others, and exploring interesting opportunities.
 
 <a href="https://www.linkedin.com/in/harmain-faisall/">
-<img src="https://img.shields.io/badge/LinkedIn-Harmain%20Faisal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-
 <a href="mailto:harmain.faisall19@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://github.com/harmainfaisall">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-29213F?style=for-the-badge&logo=github&logoColor=B9A3FF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-FOLLOW%20MY%20JOURNEY-29213F?style=for-the-badge&logo=github&logoColor=B9A3FF" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-*“The goal isn't just to write code. It's to keep growing into the developer who can turn an idea into reality.”*
+*“Build with purpose. Learn with curiosity. Grow with every commit.”*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:167F80,55:4C3378,100:171326&height=110&section=footer" alt="Decorative footer"/>
 
