@@ -127,9 +127,11 @@ I believe every project is an opportunity to learn something new, solve a proble
 </a>
 
 </div>
+
 ## ☎ Let's Connect
 
 <div align="center">
+
 
 I'm always open to connecting with developers, learning from others, and exploring interesting opportunities.
 
